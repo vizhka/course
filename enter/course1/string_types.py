@@ -14,19 +14,13 @@ print("""
 This string contains multiline
     text. And extra spaces.
 """)
-
-
 print('\n')
-
-
-
 
 # Casting to string:
 print(str(4))
 print(str(4 + 1))
 print(str(4) + '1')
 print(str(None), str(True), str(False), str(object))
-
 
 # String operations:
 print('123' + '456')  # but it is impossiable to '123' - '3'
@@ -36,7 +30,6 @@ print('a' < 'b')
 print('ab' < 'ba')
 
 print('4' * 4)
-
 
 
 print('Chars'[0], '123'[1], 'abc'[-1])
@@ -49,13 +42,10 @@ print('100' in '200')
 
 print('I am not there' not in 'String')
 
-
 # String length:
 print(len('7 chars'))
 
-
-
 # String format:
 print('Hello, {}. You are learning {}'.format('Peter', 'Python'))
-print('Hello, {}. You are learning {}'.format('Peter'))
+print('Hello, {}. You are learning {}'.format('Peter', 'Python'))
 print('Hello, {}. You are learning'.format('Peter', 'Python'))

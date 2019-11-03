@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="28c75eaf-25d6-4927-9aad-b82c407df3be" name="Default Changelist" comment="" />
+    <list default="true" id="28c75eaf-25d6-4927-9aad-b82c407df3be" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/course1/home_work.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prjct_3" beforeDir="false" afterPath="$PROJECT_DIR$/../Prjct_3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/course1/loops.py" beforeDir="false" afterPath="$PROJECT_DIR$/course1/loops.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../site_pr" beforeDir="false" afterPath="$PROJECT_DIR$/../site_pr" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled2" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vox-assistant" beforeDir="false" afterPath="$PROJECT_DIR$/../vox-assistant" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,9 +23,15 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1SYq2wUkpTzBGBkiTW1qjvMUAPO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -31,7 +45,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.string_types">
+  <component name="RunManager" selected="Python.home_work">
     <configuration name="bool_type" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="enter" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -46,6 +60,72 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/course1/bool_type.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="everything_is_an_object" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="enter" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/course1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/course1/everything_is_an_object.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="home_work" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="enter" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/course1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/course1/home_work.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="loops" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="enter" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/course1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/course1/loops.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -76,33 +156,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="types" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="enter" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/course1" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/course1/types.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.home_work" />
+        <item itemvalue="Python.loops" />
+        <item itemvalue="Python.everything_is_an_object" />
         <item itemvalue="Python.string_types" />
         <item itemvalue="Python.bool_type" />
-        <item itemvalue="Python.types" />
       </list>
     </recent_temporary>
   </component>
@@ -116,12 +176,39 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1571750674012</updated>
-      <workItem from="1571750675384" duration="4367000" />
+      <workItem from="1571750675384" duration="4613000" />
+      <workItem from="1572477237912" duration="32000" />
+      <workItem from="1572477292550" duration="53000" />
+      <workItem from="1572477542617" duration="82000" />
+      <workItem from="1572556710577" duration="579000" />
+      <workItem from="1572557317278" duration="31000" />
+      <workItem from="1572557374174" duration="2135000" />
+      <workItem from="1572559540507" duration="76000" />
+      <workItem from="1572559635444" duration="213000" />
+      <workItem from="1572559869636" duration="34000" />
+      <workItem from="1572559923229" duration="281000" />
+      <workItem from="1572560225439" duration="106000" />
+      <workItem from="1572560352395" duration="69000" />
+      <workItem from="1572560686010" duration="642000" />
+      <workItem from="1572790229808" duration="722000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -136,7 +223,10 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/enter$types.coverage" NAME="types Coverage Results" MODIFIED="1571751089344" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/course1" />
-    <SUITE FILE_PATH="coverage/enter$string_types.coverage" NAME="string_types Coverage Results" MODIFIED="1571754774037" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/course1" />
+    <SUITE FILE_PATH="coverage/enter$loops.coverage" NAME="loops Coverage Results" MODIFIED="1572477584190" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/course1" />
+    <SUITE FILE_PATH="coverage/enter$string_types.coverage" NAME="string_types Coverage Results" MODIFIED="1572477560046" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/course1" />
     <SUITE FILE_PATH="coverage/enter$bool_type.coverage" NAME="bool_type Coverage Results" MODIFIED="1571751254217" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/course1" />
+    <SUITE FILE_PATH="coverage/enter$everything_is_an_object.coverage" NAME="everything_is_an_object Coverage Results" MODIFIED="1572477564890" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/course1" />
+    <SUITE FILE_PATH="coverage/enter$home_work.coverage" NAME="home_work Coverage Results" MODIFIED="1572560383682" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/course1" />
   </component>
 </project>

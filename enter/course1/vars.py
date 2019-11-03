@@ -7,7 +7,6 @@ if my_global_var > 2:
 print(inner_if_var)
 
 
-
 if my_global_var != 3:
     this_wont_happen = 'Nein!'
 else:
@@ -17,19 +16,10 @@ print(but_this_will)
 print(this_wont_happen)  # error here!
 
 
-
-
-
 # second:
 var = 1
 value = var
 var = 10
-
-
-
-
-
-
 
 
 
@@ -40,21 +30,10 @@ del var  # you should not really do that.
 
 
 
-
-
-
-
-
-
 # fourth:
 var = 'string'
 value = var
 value += ' is immutable'  # value = value + 'is ...'
-
-
-
-
-
 
 
 # what can be stored inside a variable? everything!

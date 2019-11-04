@@ -12,6 +12,13 @@ if Age >= 25:
 if Age <= 25:
     print('You are young!' + name)
     print(f'You are lived for {Age * 365} days!')
+x = input("What is the capital of Italy: ")
+if x != 'Rome':
+    print('You are not right!')
+    x = input("What is the capital of Italy: ")
+if x == 'Rome':
+    print('Great job!')
+
 
 
 

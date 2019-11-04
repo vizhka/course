@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="28c75eaf-25d6-4927-9aad-b82c407df3be" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/course1/hw4.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Prjct_3" beforeDir="false" afterPath="$PROJECT_DIR$/../Prjct_3" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/course1/home_work.py" beforeDir="false" afterPath="$PROJECT_DIR$/course1/hw0.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/course1/hw0.py" beforeDir="false" afterPath="$PROJECT_DIR$/course1/hw0.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../site_pr" beforeDir="false" afterPath="$PROJECT_DIR$/../site_pr" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../untitled2" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled2" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../vox-assistant" beforeDir="false" afterPath="$PROJECT_DIR$/../vox-assistant" afterDir="false" />
@@ -43,7 +44,7 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/course1/hw0.py" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RunDashboard">
@@ -208,7 +209,7 @@
       <workItem from="1572821335202" duration="1303000" />
       <workItem from="1572823682880" duration="329000" />
       <workItem from="1572851463299" duration="4412000" />
-      <workItem from="1572893435938" duration="2308000" />
+      <workItem from="1572893435938" duration="5270000" />
     </task>
     <servers />
   </component>
@@ -241,7 +242,7 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/enter$quiz__2.coverage" NAME="quiz #2 Coverage Results" MODIFIED="1572853082458" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Torrent/[tceh] Разработчик на Python/002 Операции, Работа с командной строкой, Сложные типы данных, Функции/примеры решения дз #1" />
-    <SUITE FILE_PATH="coverage/enter$hw0.coverage" NAME="hw0 Coverage Results" MODIFIED="1572895731045" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/course1" />
+    <SUITE FILE_PATH="coverage/enter$hw0.coverage" NAME="hw0 Coverage Results" MODIFIED="1572904276690" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/course1" />
     <SUITE FILE_PATH="coverage/enter$types.coverage" NAME="types Coverage Results" MODIFIED="1571751089344" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/course1" />
     <SUITE FILE_PATH="coverage/enter$loops.coverage" NAME="loops Coverage Results" MODIFIED="1572821770735" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/course1" />
     <SUITE FILE_PATH="coverage/enter$string_types.coverage" NAME="string_types Coverage Results" MODIFIED="1572852102287" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/course1" />

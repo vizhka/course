@@ -5,9 +5,7 @@ print(t[1])
 
 simple_tuple = (1, 2, 3, 4, 5)
 print(simple_tuple)
-
 # operations
-
 # add
 simple_tuple += (6, )  # equals to simple_tuple = simple_tuple + (6, )
 print(simple_tuple)
@@ -21,7 +19,6 @@ not_a_tuple = (1)  # this is not a tuple!
 
 print(tuple1 == tuple2, tuple2 == not_a_tuple, type(not_a_tuple), not_a_tuple)
 print( (1, 2) == (1, 2, ) )
-
 
 # tuple operations:
 
@@ -63,18 +60,11 @@ for item in tuple1:  # tuple is iterable
 print(new_tuple)
 
 
-
 # nested:
 print( (1, ('a', (tuple(), ), 'b'), 2, ) )
 
 # multiply:
 print(tuple2 * 3)
-
-
-
-
-
-
 
 
 # unpack:

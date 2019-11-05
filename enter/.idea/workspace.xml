@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="28c75eaf-25d6-4927-9aad-b82c407df3be" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/course1/tuple.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Prjct_3" beforeDir="false" afterPath="$PROJECT_DIR$/../Prjct_3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/course1/tuple.py" beforeDir="false" afterPath="$PROJECT_DIR$/course1/tuple.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../site_pr" beforeDir="false" afterPath="$PROJECT_DIR$/../site_pr" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../untitled2" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled2" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../vox-assistant" beforeDir="false" afterPath="$PROJECT_DIR$/../vox-assistant" afterDir="false" />
@@ -210,7 +209,7 @@
       <workItem from="1572851463299" duration="4412000" />
       <workItem from="1572893435938" duration="7479000" />
       <workItem from="1572931391673" duration="450000" />
-      <workItem from="1572984824207" duration="917000" />
+      <workItem from="1572984824207" duration="1162000" />
     </task>
     <servers />
   </component>
@@ -250,7 +249,7 @@
     <SUITE FILE_PATH="coverage/enter$hw4.coverage" NAME="hw4 Coverage Results" MODIFIED="1572985170417" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/course1" />
     <SUITE FILE_PATH="coverage/enter$bool_type.coverage" NAME="bool_type Coverage Results" MODIFIED="1571751254217" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/course1" />
     <SUITE FILE_PATH="coverage/enter$everything_is_an_object.coverage" NAME="everything_is_an_object Coverage Results" MODIFIED="1572477564890" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/course1" />
-    <SUITE FILE_PATH="coverage/enter$tuple.coverage" NAME="tuple Coverage Results" MODIFIED="1572985178062" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/course1" />
+    <SUITE FILE_PATH="coverage/enter$tuple.coverage" NAME="tuple Coverage Results" MODIFIED="1572986046245" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/course1" />
     <SUITE FILE_PATH="coverage/enter$home_work.coverage" NAME="home_work Coverage Results" MODIFIED="1572855586526" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/course1" />
     <SUITE FILE_PATH="coverage/enter$vars.coverage" NAME="vars Coverage Results" MODIFIED="1572821815090" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/course1" />
   </component>

@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="28c75eaf-25d6-4927-9aad-b82c407df3be" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/course1/tuple.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Prjct_3" beforeDir="false" afterPath="$PROJECT_DIR$/../Prjct_3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/course1/hw4.py" beforeDir="false" afterPath="$PROJECT_DIR$/course1/hw4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../site_pr" beforeDir="false" afterPath="$PROJECT_DIR$/../site_pr" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../untitled2" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled2" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../vox-assistant" beforeDir="false" afterPath="$PROJECT_DIR$/../vox-assistant" afterDir="false" />
@@ -42,7 +43,7 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/course1/hw0.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/course1/hw4.py" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RunDashboard">
@@ -57,7 +58,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.hw4">
+  <component name="RunManager" selected="Python.tuple">
     <configuration name="home_work" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="enter" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -146,7 +147,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="string_types" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="tuple" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="enter" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -159,7 +160,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/course1/string_types.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/course1/tuple.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -170,11 +171,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.tuple" />
         <item itemvalue="Python.hw4" />
         <item itemvalue="Python.hw0" />
         <item itemvalue="Python.home_work" />
         <item itemvalue="Python.quiz #2" />
-        <item itemvalue="Python.string_types" />
       </list>
     </recent_temporary>
   </component>
@@ -207,7 +208,9 @@
       <workItem from="1572821335202" duration="1303000" />
       <workItem from="1572823682880" duration="329000" />
       <workItem from="1572851463299" duration="4412000" />
-      <workItem from="1572893435938" duration="6517000" />
+      <workItem from="1572893435938" duration="7479000" />
+      <workItem from="1572931391673" duration="450000" />
+      <workItem from="1572984824207" duration="917000" />
     </task>
     <servers />
   </component>
@@ -244,9 +247,10 @@
     <SUITE FILE_PATH="coverage/enter$types.coverage" NAME="types Coverage Results" MODIFIED="1571751089344" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/course1" />
     <SUITE FILE_PATH="coverage/enter$loops.coverage" NAME="loops Coverage Results" MODIFIED="1572821770735" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/course1" />
     <SUITE FILE_PATH="coverage/enter$string_types.coverage" NAME="string_types Coverage Results" MODIFIED="1572852102287" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/course1" />
-    <SUITE FILE_PATH="coverage/enter$hw4.coverage" NAME="hw4 Coverage Results" MODIFIED="1572907310949" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/course1" />
+    <SUITE FILE_PATH="coverage/enter$hw4.coverage" NAME="hw4 Coverage Results" MODIFIED="1572985170417" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/course1" />
     <SUITE FILE_PATH="coverage/enter$bool_type.coverage" NAME="bool_type Coverage Results" MODIFIED="1571751254217" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/course1" />
     <SUITE FILE_PATH="coverage/enter$everything_is_an_object.coverage" NAME="everything_is_an_object Coverage Results" MODIFIED="1572477564890" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/course1" />
+    <SUITE FILE_PATH="coverage/enter$tuple.coverage" NAME="tuple Coverage Results" MODIFIED="1572985178062" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/course1" />
     <SUITE FILE_PATH="coverage/enter$home_work.coverage" NAME="home_work Coverage Results" MODIFIED="1572855586526" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/course1" />
     <SUITE FILE_PATH="coverage/enter$vars.coverage" NAME="vars Coverage Results" MODIFIED="1572821815090" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/course1" />
   </component>

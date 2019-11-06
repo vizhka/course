@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="28c75eaf-25d6-4927-9aad-b82c407df3be" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/course1/dict.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/course1/list.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Prjct_3" beforeDir="false" afterPath="$PROJECT_DIR$/../Prjct_3" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/course1/dict.py" beforeDir="false" afterPath="$PROJECT_DIR$/course1/dict.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/course1/list.py" beforeDir="false" afterPath="$PROJECT_DIR$/course1/list.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../site_pr" beforeDir="false" afterPath="$PROJECT_DIR$/../site_pr" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../untitled2" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled2" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../vox-assistant" beforeDir="false" afterPath="$PROJECT_DIR$/../vox-assistant" afterDir="false" />
@@ -212,7 +212,8 @@
       <workItem from="1572893435938" duration="7479000" />
       <workItem from="1572931391673" duration="450000" />
       <workItem from="1572984824207" duration="1162000" />
-      <workItem from="1573019772186" duration="184000" />
+      <workItem from="1573019772186" duration="279000" />
+      <workItem from="1573049612767" duration="49000" />
     </task>
     <servers />
   </component>

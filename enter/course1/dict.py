@@ -7,15 +7,6 @@ print(this_is_dict == this_is_also_dict)
 
 
 
-
-
-
-
-
-
-
-
-
 # DICTS ARE MUTABLE!
 # Switch to http://pythontutor.com/visualize.html#mode=edit
 var = {1: 'value'}
@@ -73,13 +64,10 @@ for key in to_iterate:
 
 for key, value in to_iterate.items():
     print(key, value)
-
 # clear:
 to_clear = {'key': 'value', 1: 2}
 to_clear.clear()
 print(to_clear)
-
-
 # string format:
 print('{first_name}, {second_name}'.format(
     first_name='Clark', second_name='Kent',

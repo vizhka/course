@@ -44,12 +44,6 @@ print(list1)
 list1.insert(1, 'inserted value')
 print(list1)
 
-
-
-
-
-
-
 # LISTS ARE MUTABLE
 # Switch to http://pythontutor.com/visualize.html#mode=edit
 var = ['bar']
@@ -58,11 +52,6 @@ var.append('foo')
 var[0] = 'baz'  # you can assign to items
 print(new_var)  # try the same with `copy()`
 # end
-
-
-
-
-
 
 
 
